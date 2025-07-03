@@ -1,6 +1,6 @@
 # ✡️🕯️ Shabbat Bot
 
-**WizardLoop Shabbat Bot** is an automated Telegram bot that changes group permissions at the entrance and exit of Shabbat, helping admins manage group activity and maintain Shabbat observance.
+**WizardLoop Shabbat Bot** is an automated Telegram bot that changes group permissions at the entrance and exit of Shabbat, helping admins manage group activity and maintain Shabbat observance!
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Made by WizardLoop](https://img.shields.io/badge/Made%20by-WizardLoop-blue)](https://github.com/WizardLoop)
